@@ -1,8 +1,12 @@
-# first_wordpress_site
+# README
+
+### Requirements
+
+Run the website locally using [Local by Flywheel](https://localbyflywheel.com).
 
 ### Run site
 
-Start the "Local" WordPress application (server) and select "demo_site".
+Start Local app ```local``` and select "FIRST WORDPRESS SITE".
 
 ### Notes
 
